@@ -1,0 +1,2 @@
+pixecpicker.MouseCursorXYLabel
+pixecpicker.AlsXYMouseLabelComponent
